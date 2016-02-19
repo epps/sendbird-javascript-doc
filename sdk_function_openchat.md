@@ -63,7 +63,7 @@ Join a channel.
 ### 2. Leave Channel
 Leave a channel.  
 The user is removed from the member list of the channel.
- ( This does not move an user to a different channel automatically.)
+ ( This does not move a user to a different channel automatically.)
 
 ```javascript
   ...
@@ -162,7 +162,7 @@ Get a list of Open Chat channels.
 
 
 ### 5. Search Channel
-Search for channels by a text query on channel names
+Search for channels by a text query on channel names.
 
 ```javascript
   ...
